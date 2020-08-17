@@ -1,9 +1,9 @@
-##Install
+## Install
 
 `yarn`
 Installs dependencies
 
-##Scripts
+## Scripts
 
 `yarn dev`
 Launch a development server on localhost:3000 with hot-reloading.
